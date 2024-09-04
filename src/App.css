@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+form{
+  display: inline-block;
+  background-color: chartreuse;
+}
+form label{
+  display: inline-block;
+  width:300px;
+  margin:5px;
+}
+
+.checkbox{
+  width: auto;
+}
+.lan{
+  margin-left: 110px;
+}
+.state{
+  width:170px;
+}
+.nav{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  font-size: 2rem;
+}
